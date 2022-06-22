@@ -351,7 +351,7 @@ class _LocationState extends State<Location> {
                               children: [
                                 CircleAvatar(
                                   child: Icon(
-                                    Icons.camera,
+                                    Icons.camera_alt,
                                     size: 30,
                                   ),
                                 ),
