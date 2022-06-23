@@ -235,7 +235,7 @@ class _HomepageState extends State<Homepage> {
       bottomNavigationBar:
           BottomNavigationBar(
             elevation: 0,
-            type: BottomNavigationBarType.shifting,
+            type: BottomNavigationBarType.fixed,
             currentIndex: _selectedIndex,
               showSelectedLabels: true,
               showUnselectedLabels: true,
